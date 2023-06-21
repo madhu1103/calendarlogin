@@ -1,3 +1,15 @@
+#create simple login page using aws amplify, react and aws cognito.
+
+Dependencies need to install:
+npm install aws-amplify aws-amplify-react @aws-amplify/ui-react
+
+Configure amplify
+
+amplify configure
+amplify add auth
+amplify push
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
